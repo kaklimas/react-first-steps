@@ -1,4 +1,6 @@
-# Simple app showing films contains given title
+# Description
+
+Simple app showing films contains given title
 
 
 # Getting Started with Create React App
